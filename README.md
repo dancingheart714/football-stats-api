@@ -9,7 +9,7 @@ Two fixes in the tutorial are credited to https://github.com/rushuifang/create-y
 
 2.  In /routes/stats.js, the tutorial didn't define statsFilePath in POST, UPDATE and DELETE methods.
 
-NOTES:<br>
+MY NOTES:<br>
 npm init<br>
 npm install express body-parser morgan<br>
 npm i nodemon
